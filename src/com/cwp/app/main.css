@@ -1,0 +1,11 @@
+.common-label {
+    -fx-text-fill: aliceblue;
+    -fx-font-size: 14px;
+}
+.common-btn {
+    -fx-cursor: hand;
+}
+#generateBtn {
+    -fx-background-color: #0d8de7;
+    -fx-text-fill: aliceblue;
+}
